@@ -1,6 +1,6 @@
 # Hey😁! I'm **Vasanth**
 
-☄️ I'm a passionate programmer by day movie buff by night. <br />
+☄️ I am a ***pro***grammer.
 ☄️ Currently pursuing **B.Tech in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning at VIT Chennai**. <br />
 ☄️ Interested in **Artificial Intelligence, Web Development** <br />
 
