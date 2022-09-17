@@ -1,7 +1,7 @@
 # Hey😁! I'm **Vasanth**
 
 ☄️ I am a ***pro***grammer.<br/>
-☄️ Currently pursuing **B.Tech in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning at VIT Chennai**. <br />
+☄️ Currently pursuing my **B.Tech in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning at VIT Chennai**. <br />
 ☄️ Interested in **Artificial Intelligence, Web Development** <br />
 
 ### Check out my website [Here](https://vasu2k3.github.io/Portfolio/)
